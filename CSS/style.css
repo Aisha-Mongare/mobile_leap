@@ -1,0 +1,14 @@
+html {
+    background-color: azure;
+    text-align: center;
+}
+.paragraph {
+    text-align: center;
+    color: cadetblue;
+}
+
+img {
+  height: 400px;
+  width: 500px;
+}
+.flex-container
